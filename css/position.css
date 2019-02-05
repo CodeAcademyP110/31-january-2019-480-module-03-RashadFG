@@ -1,0 +1,188 @@
+
+
+.text{
+	color: white
+}
+.margin{
+	margin: 0px auto;
+}
+.padding{
+	padding-left:10px
+}
+
+.border{
+	border: 1px solid white;
+}
+.color{
+background: #2B77AC
+}
+.contenier{
+	width: 99%;
+	
+}
+.incontenier{
+width: 94%;
+margin-top:20px;
+}
+.SH{
+	width: 55%
+}
+.column1{
+	width: 20%;
+		display: inline-block;
+	font-size: 26px;
+	padding-left:99px;
+
+}
+.column2{
+	width: 60%;
+	display: inline-block;
+	font-size: 26px;
+	padding-left:99px;
+
+}
+.column3{
+	width: 37%;
+	display: inline-block;
+	font-size: 26px;
+	padding-left:99px;
+
+}
+
+.numberx{
+	display: inline-block;
+	width:30px;
+	height: 30px;
+	padding:5px;
+}
+.number1
+{
+	font-size: 157%;
+	float:left;
+}
+.number2
+{
+	float:left;
+}
+.number3
+{
+	font-size: 157%;
+	float:left;
+} 
+.clear{
+	clear: both
+} 
+.main1{
+	width: 90%;
+	
+
+}
+
+.main1{
+	width: 100%
+}
+.main1raw1{
+	height: 100px;
+	position:relative;
+
+}
+.main1raw2{
+	height: 250px
+}
+.main1raw3{
+	height: 100px;
+	position:relative;
+}
+.main1raw1column1{
+width: 89%;
+display:inline-block;
+height: 100px;
+position: relative;
+font-size:74px;
+
+
+}
+.main1raw1column2{
+display:inline-block;
+position: absolute;
+top: 0px;
+right: 0px;
+font-size:25px;
+padding:35px 28px;
+
+
+}
+.main1raw2colum1{
+width: 25%;
+float:left;
+height: 100% ;
+position:relative;
+}
+.main1raw2colum2{
+width: 49%;
+float:left;
+height: 100%;
+font-size:35px;
+
+}
+.main1raw2colum3{
+width: 25.555%;
+float:left;
+height: 100%;
+position: relative;
+}
+.clear{
+	clear: both
+}
+.box{
+height:80%;
+width: 80%;
+position:absolute;
+top: 25px;
+right: 30px
+}
+.box2{
+height:20%;
+width: 60%;
+position:relative;
+padding-left:73px; 
+top: 13px;
+left: 33px;
+font-size:46px;
+
+
+}
+.box3{
+height:33%;
+width: 53%;
+position:relative;
+top: 35px;
+left: 35px;
+padding-left: 97px;
+padding-top: 63px;
+
+}
+
+
+
+.box4{
+width: 65%;
+float: left;
+display: inline-block;
+font-size: 60px;
+position:relative;
+top: 15px;
+left: 20px
+
+}
+
+.box5{
+	width: 35%;
+float: left;
+font-size: 60px;
+display: inline-block;
+position:relative;
+top: 15px;
+right: 0px
+}
+
